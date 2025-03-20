@@ -15,7 +15,7 @@ for($k=0;$k<3;$k++){
 ?>
 
 
-<!-- ADDITIONAL -->
+<!-- ADDITIONAL printing 2D Loop -->
 <?php
 $arr=[];
 $rows=(int)readline("enter number of rows: ");
